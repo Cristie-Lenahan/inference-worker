@@ -7,9 +7,11 @@ This program acts as a bridge between other software and the Cerebras AI inferen
 This MCP server provides the following core functionalities:
 
 - **Task Submission:** Allows users to submit tasks to the Cerebras AI inference platform.
-- **Task Decomposition:** Breaks down complex tasks into smaller, well-defined sub-tasks for parallel processing.
-- **Orchestration:** Manages the parallel processing of sub-tasks using worker modules.
-- **Result Aggregation:** Collects and compiles results from worker modules.
+- **Task Submission:** Allows users to submit tasks to the Cerebras AI inference platform.
+- **Task Decomposition:** (Pending) Breaks down complex tasks into smaller, well-defined sub-tasks for parallel processing.
+- **Orchestration:** (Pending) Manages the parallel processing of sub-tasks using worker modules.
+- **Result Aggregation:** (Pending) Collects and compiles results from worker modules.
+- **Inference Processing:** Handles communication with the Cerebras AI API to execute tasks.
 - **Inference Processing:** Handles communication with the Cerebras AI API to execute tasks.
 
 ## Process Flow
