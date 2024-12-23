@@ -39,7 +39,7 @@ The following steps outline the process flow for handling user tasks:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Cristie-Lenahan/inference-worker
    cd inference-worker
    ```
 
